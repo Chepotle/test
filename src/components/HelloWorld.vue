@@ -108,5 +108,8 @@ export default {
         display: inline-block;
         position: relative;
     }
+    &__name {
+        margin-top: 5px;
+    }
 }
 </style>
