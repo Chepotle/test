@@ -56,12 +56,15 @@ export default {
 .panel {
     max-width: 1400px;
     margin: 0 auto;
-    padding-top: 28px;
     color: #2a355a;
     font-size: 14px;
     border-radius: 12px;
     display: flex;
     justify-content: space-between;
+    background-color: #fff;
+    min-height: 79px;
+    align-items: center;
+    padding: 0 28px;
     .panel &__logo {
         width: 32px;
         height: 32px;
